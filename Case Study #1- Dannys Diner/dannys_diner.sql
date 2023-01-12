@@ -90,7 +90,8 @@ SELECT
 FROM dannys_diner.sales
 INNER JOIN dannys_diner.menu 
 ON sales.product_id = menu.product_id
-WHERE order_date in (SELECT first_date FROM (SELECT customer_id, MIN(order_date) AS first_date FROM 							dannys_diner.sales
+WHERE order_date in (SELECT first_date FROM (SELECT customer_id, MIN(order_date) AS first_date 
+					FROM dannys_diner.sales
                     GROUP BY customer_id) Z GROUP BY first_date)
 GROUP BY customer_id,product_name, order_date
 ORDER BY customer_id;
