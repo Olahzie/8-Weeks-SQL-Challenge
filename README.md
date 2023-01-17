@@ -20,11 +20,11 @@ Danny wants to use the data to answer a few simple questions about his customers
 ![image](https://user-images.githubusercontent.com/90378885/212132929-6d6b7261-2e72-4cff-82a0-c5328bc180e2.png)
 
 
--
 
 
 
 
+---
 ## Case Study #2: Pizza Runner
 
 ![image](https://user-images.githubusercontent.com/90378885/212938450-45df60a5-3ae4-4908-ab27-d7dbc69ad19d.png)
