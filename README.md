@@ -49,8 +49,9 @@ Danny wants to expand his new Pizza Empire ,so he decided to Uberize it which le
 ---
 
 ## Case Study #3: Foodie-fi
+![image](https://user-images.githubusercontent.com/90378885/214858631-47aa4425-5a96-48e0-9110-5f0b614c8f71.png)
 
-![image](https://user-images.githubusercontent.com/90378885/214854851-280bcacd-e920-444f-89fe-722195433bf4.png)
+
 
 
 Click [here](https://8weeksqlchallenge.com/case-study-3/) for the detailed case study problem statement.
