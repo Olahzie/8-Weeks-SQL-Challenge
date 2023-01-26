@@ -58,7 +58,7 @@ Click [here](https://8weeksqlchallenge.com/case-study-3/) for the detailed case 
 
 ### Business problem summary
 
-Danny created Foodie-Fi, a new streaming service that only had food related content - something like Netflix but with only cooking shows!, with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
+Danny created Foodie-Fi; a new streaming service that only had food related content - something like Netflix but with only cooking shows, with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.
 
 ### Entity Relationship Diagram
 ![image](https://user-images.githubusercontent.com/90378885/214858184-f725dcb9-c546-4244-85f1-17a4b735c548.png)
